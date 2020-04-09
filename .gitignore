@@ -1,5 +1,5 @@
 build/
-./build/*.js 
+./build/* 
 **/build
 
 ./node_modules
@@ -12,3 +12,4 @@ public/
 *.log
 
 
+./public/* 
