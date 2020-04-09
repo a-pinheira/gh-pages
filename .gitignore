@@ -1,5 +1,5 @@
 build/
-./build/*.js 
+./build/* 
 **/build
 
 ./node_modules
